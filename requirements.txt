@@ -1,0 +1,9 @@
+requests
+scapy
+wget
+argparse
+colorama
+humanfriendly
+termcolor
+bs4
+requests
